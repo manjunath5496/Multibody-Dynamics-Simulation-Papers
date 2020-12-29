@@ -72,22 +72,21 @@ Integrators and Optimal Control</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(36).pdf" style="text-decoration:none;">Position Based Dynamics</a></li> 
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(37).pdf" style="text-decoration:none;">Motion planning with sequential convex optimization and convex collision checking</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(38).pdf" style="text-decoration:none;">Deep Voice 2: Multi-Speaker Neural Text-to-Speech</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(39).pdf" style="text-decoration:none;">Gated-Attention Architectures for Task-Oriented Language Grounding</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(40).pdf" style="text-decoration:none;">Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(41).pdf" style="text-decoration:none;">SCAN: Learning Hierarchical Compositional Visual Concepts</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(42).pdf" style="text-decoration:none;">Tensor Fusion Network for Multimodal Sentiment Analysis</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(38).pdf" style="text-decoration:none;">Bounce Maps: An Improved Restitution Model for Real-Time Rigid-Body Impact</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(39).pdf" style="text-decoration:none;">Making a meaningful impact: modelling simultaneous frictional collisions in spatial multibody systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(40).pdf" style="text-decoration:none;">Nonsmooth Lagrangian Mechanics and Variational Collision Integrators</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(41).pdf" style="text-decoration:none;">Autonomous Suspended Load Operations via Trajectory Optimization and Variational Integrators</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(42).pdf" style="text-decoration:none;">Stable Constrained Dynamics</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(43).pdf" style="text-decoration:none;">Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(44).pdf" style="text-decoration:none;">Localizing Moments in Video with Natural Language</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(45).pdf" style="text-decoration:none;">Answering Visual-Relational Queries in Web-Extracted Knowledge Graphs</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(43).pdf" style="text-decoration:none;">Staggered Projections for Frictional Contact in Multibody Systems</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(44).pdf" style="text-decoration:none;">An Implicit Time-Stepping Scheme for Rigid Body Dynamics with Inelastic Collisions and Coulomb Friction</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(45).pdf" style="text-decoration:none;">All's Well That Ends Well: Guaranteed Resolution of Simultaneous Rigid Body Impact</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(46).pdf" style="text-decoration:none;">Cross-modal Recurrent Models for Weight Objective Prediction from Multimodal Time-series Data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(46).pdf" style="text-decoration:none;">Posing Multibody Dynamics with Friction and Contact as a Differential Complementarity Problem</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(47).pdf" style="text-decoration:none;">Fooling Vision and Language Models
-Despite Localization and Attention Mechanism</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(48).pdf" style="text-decoration:none;">Emergent Translation in Multi-Agent Communication</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(47).pdf" style="text-decoration:none;">Interactive constrained dynamics for rigid and deformable objects</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(48).pdf" style="text-decoration:none;">Variational Integrators</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(49).pdf" style="text-decoration:none;">Deep Voice 3: Scaling Text-to-Speech with Convolutional Sequence Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multibody-Dynamics-Simulation-Papers/blob/master/dy(49).pdf" style="text-decoration:none;">XPBD: Position-Based Simulation of Compliant Constrained Dynamics</a></li>
                               
 </ul>
